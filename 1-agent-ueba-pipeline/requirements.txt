@@ -1,0 +1,4 @@
+# 1-agent-ueba-pipeline/requirements.txt
+pandas
+scikit-learn
+lightgbm
